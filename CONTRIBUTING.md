@@ -36,22 +36,15 @@ you may want to look at
 [How to Contribute to an Open Source Project on GitHub][how-contribute].
 In brief:
 
-We use [GitHub flow][github-flow] to manage changes:
-    1.  Create a new branch in your desktop copy of this repository for each significant change.
-    2.  Commit the change in that branch.
-    3.  Push that branch to your fork of this repository on GitHub.
-    4.  Submit a pull request from that branch to the [master repository][repo].
+We use [GitHub flow][github-flow] to manage changes: <br>
+    1.  Create a new branch in your desktop copy of this repository for each significant change.<br>
+    2.  Commit the change in that branch.<br>
+    3.  Push that branch to your fork of this repository on GitHub.<br>
+    4.  Submit a pull request from that branch to the [master repository][repo].<br>
     5.  If you receive feedback,
         make changes on your desktop and push to your branch on GitHub:
         the pull request will update automatically.
 
-
-## Other Resources
-
-General discussion of [Software Carpentry][swc-site] and [Data Carpentry][dc-site]
-happens on the [discussion mailing list][discuss-list],
-which everyone is welcome to join.
-You can also [reach us by email][contact].
 
 [contact]: mailto:
 
