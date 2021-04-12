@@ -1,6 +1,6 @@
 # Contributing
 
-(*This contribution guidelines are based on [Software Carpentry][swc-site] and [Data Carpentry][dc-site] contribution instructions)
+(*This contribution guidelines are based on [Software Carpentry][swc-site] and [Data Carpentry][dc-site] contribution instructions*)
 We welcome contributions of all kinds:
 fixes to existing code and documentation,
 bug reports,
@@ -9,7 +9,7 @@ reviews of proposed changes.
 ## Contributor Agreement
 
 By contributing,
-you agree that we may redistribute your work under [this project license](LICENSE.md).
+you agree that we may redistribute your work under [this project license](LICENSE).
 
 ## How to Contribute
 
